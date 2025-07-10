@@ -2,7 +2,10 @@
 
 A modern, mobile-first e-commerce frontend for Nigerian traditional clothing, built with React, TypeScript, Tailwind CSS, and Zustand for state management.
 
-![NaijaWear Preview](https://i.pinimg.com/736x/d3/62/07/d36207eb3c1237a88b0b84855581937e.jpg)
+
+🌍 **Live Demo**: [naija-fashion.netlify.app](https://naija-fashion.netlify.app/)
+
+![NaijaWear Preview](https://i.pinimg.com/1200x/80/8e/d0/808ed045138628a1d6d437f444de5b25.jpg)
 
 ## ✨ Features
 
